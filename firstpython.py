@@ -27,7 +27,7 @@ scissors = '''
 ---.__(_____)
 '''
 
-#Write your code below this line 👇
+#👇
 game_images = [rock, paper, scissors]
 
 user_choice = int(
